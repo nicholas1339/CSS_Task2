@@ -1,8 +1,14 @@
 
-.first-class{
-    color:black;
+.first-class,
+.second-class {
+
     background-color: pink;
-    font-size: 25px;
+    font-size: 20px;
+}
+
+.second-class{
+
+    font-size: 24px;
 }
 
 #first-unique{
